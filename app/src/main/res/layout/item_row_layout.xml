@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_margin="20dp"
+    android:id="@+id/line_klik_btn">
+
+
+    <TextView
+        android:id="@+id/nama_siswa_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_tect_background"
+        android:hint="@string/namasiswa"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/nim_siswa_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_tect_background"
+        android:hint="@string/nimsiswa"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/alamat_siswa_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_tect_background"
+        android:hint="@string/alamatsiswa"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/phone_siswa_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_tect_background"
+        android:hint="@string/phonesiswa"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"
+        android:gravity="center" />
+</LinearLayout>

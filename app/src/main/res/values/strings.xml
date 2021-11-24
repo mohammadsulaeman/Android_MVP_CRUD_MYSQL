@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUDMYSQL</string>
+    <string name="namasiswa">namaSiswa</string>
+    <string name="nimsiswa">nimSiswa</string>
+    <string name="alamatsiswa">alamatSiswa</string>
+    <string name="phonesiswa">phoneSiswa</string>
+    <string name="idSiswa">ID Siswa</string>
+    <string name="tambah_data_siswa">Tambah Data Siswa</string>
+    <string name="edit_dan_delete_data_mahasiswa">Edit Dan Delete Data Mahasiswa</string>
+</resources>
